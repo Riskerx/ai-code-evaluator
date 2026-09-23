@@ -1,0 +1,357 @@
+{
+  "problem": "sum-even",
+  "submission": "sum_even_correct.py",
+  "seed": 42,
+  "evaluator_version": "0.1.0",
+  "random_cases": 12,
+  "source_sha256": "72783e13963d735b0fae770e00560893810373197c2d305a97fe155f0bce25b7",
+  "status": "passed",
+  "score": 100.0,
+  "passed": 26,
+  "total": 26,
+  "executed": 26,
+  "findings": [],
+  "results": [
+    {
+      "id": "case-001",
+      "category": "normal",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.63
+    },
+    {
+      "id": "case-002",
+      "category": "boundary",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 20.25
+    },
+    {
+      "id": "case-003",
+      "category": "boundary",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 19.13
+    },
+    {
+      "id": "case-004",
+      "category": "boundary",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 19.5
+    },
+    {
+      "id": "case-005",
+      "category": "boundary",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 19.15
+    },
+    {
+      "id": "case-006",
+      "category": "boundary",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.76
+    },
+    {
+      "id": "case-007",
+      "category": "boundary",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.93
+    },
+    {
+      "id": "case-008",
+      "category": "stress",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.81
+    },
+    {
+      "id": "case-009",
+      "category": "malformed",
+      "status": "passed",
+      "message": "Expected exception raised",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 19.73
+    },
+    {
+      "id": "case-010",
+      "category": "malformed",
+      "status": "passed",
+      "message": "Expected exception raised",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.5
+    },
+    {
+      "id": "case-011",
+      "category": "malformed",
+      "status": "passed",
+      "message": "Expected exception raised",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.65
+    },
+    {
+      "id": "case-012",
+      "category": "malformed",
+      "status": "passed",
+      "message": "Expected exception raised",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.41
+    },
+    {
+      "id": "case-013",
+      "category": "malformed",
+      "status": "passed",
+      "message": "Expected exception raised",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.46
+    },
+    {
+      "id": "case-014",
+      "category": "malformed",
+      "status": "passed",
+      "message": "Expected exception raised",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.38
+    },
+    {
+      "id": "case-015",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.44
+    },
+    {
+      "id": "case-016",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.49
+    },
+    {
+      "id": "case-017",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.13
+    },
+    {
+      "id": "case-018",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.05
+    },
+    {
+      "id": "case-019",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 17.99
+    },
+    {
+      "id": "case-020",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.41
+    },
+    {
+      "id": "case-021",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.96
+    },
+    {
+      "id": "case-022",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.51
+    },
+    {
+      "id": "case-023",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.5
+    },
+    {
+      "id": "case-024",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.04
+    },
+    {
+      "id": "case-025",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.2
+    },
+    {
+      "id": "case-026",
+      "category": "random",
+      "status": "passed",
+      "message": "Correct value and type",
+      "limits": {
+        "cpu_seconds": 2,
+        "memory_mb": null,
+        "core_dump_disabled": true
+      },
+      "duration_ms": 18.71
+    }
+  ],
+  "requested_limits": {
+    "wall_seconds_per_case": 1.0,
+    "memory_mb": 256
+  },
+  "platform": "darwin",
+  "memory_limit_supported": false,
+  "categories": {
+    "boundary": {
+      "passed": 6,
+      "total": 6
+    },
+    "malformed": {
+      "passed": 6,
+      "total": 6
+    },
+    "normal": {
+      "passed": 1,
+      "total": 1
+    },
+    "random": {
+      "passed": 12,
+      "total": 12
+    },
+    "stress": {
+      "passed": 1,
+      "total": 1
+    }
+  },
+  "duration_ms": 612.96
+}
